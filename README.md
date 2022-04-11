@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmedrufai Otuoze
 - 👀 I’m interested in React/Django projects
 - 🌱 I’m currently learning Frontend Applications Development with React, Ochestration with Kubernetes
-- 💞️ I’m looking to collaborate on any remote fullstack project
+- 💞️ I’m looking forward to collaborate on any remote fullstack project
 - 📫 How to reach me ... otuozeahmedrufai@gmail.com
 
 <!---
