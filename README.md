@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmedrufai Otuoze
 - 👀 I’m interested in Vue/Django/K8S projects
 - 🌱 I’m into DevOps Engineering 
-- 💞️ I’m looking forward to collaborate on any remote fullstack, DevOps project
+- 💞️ I’m looking forward to collaborating on any remote fullstack, DevOps project
 - 📫 How to reach me ... otuozeahmedrufai@gmail.com
 
 <!---
