@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmedrufai Otuoze
-- 👀 I’m interested in Vue/Django/K8S projects
-- 🌱 I’m into DevOps Engineering 
-- 💞️ I’m looking forward to collaborating on any remote fullstack, DevOps project
+- 👀 I’m interested in Data Engineering, Analytics $ AI projects
+- 🌱 I primarily use Microsoft Fabric for Data Engineering and Analytics 
+- 💞️ I’m looking forward to collaborating on any remote AI, Data related projects.
 - 📫 How to reach me ... otuozeahmedrufai@gmail.com
 
 <!---
